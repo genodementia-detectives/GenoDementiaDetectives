@@ -72,8 +72,7 @@ import matplotlib.pyplot as plt
 import warnings
 ```
 
-## Model Inputs and Features
-PLACEHOLDER USED - JONATHAN REPLACE WITH DIAGRAM
-![image](https://github.com/hermonpe/GenoDementiaDetectives/assets/116966914/874a464d-ceb6-4f83-81e5-e46e7441d57a)
+## Project Approach
+![image](https://github.com/hermonpe/GenoDementiaDetectives/blob/main/SIADS699_visual_for%20git%20readme.gif)
 
 ## Model Outputs
