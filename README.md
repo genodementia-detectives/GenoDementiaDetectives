@@ -1,7 +1,29 @@
-# GenoDementiaDetectives
+# 🧬 GenoDementiaDetectives 🧬
 
 ## Project Description
 Our team, GeoDementia Detectives, set out to create a machine learning model that can accurate predict the onset of dementia in patient from gene expression data generated through RNA sequencing. The code in this notebook provides information on model training, evaluation as well as feature selection. The model used was Logistic Regression and in this notebook we explored model performance.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine.
+
+### Get a copy
+
+Get a copy of this project by simply running the git clone command.
+
+``` git
+git clone https://github.com/hermonpe/GenoDementiaDetectives.git
+```
+
+### Prerequisites
+
+Before running the project, we have to install all the dependencies from requirements.txt
+
+``` pip
+pip install -r requirements.txt
+```
+
+Please note that you need a GPU with proper setup to run the analysis.  Our team used Greak Lakes.
 
 ## Data Source
 We downloaded RNA expression data from the Aging, Dementia, and Traumatic Brain Injury Project, which links to brain tissue data on this website: https://aging.brain-map.org/download/index. The data was organized using the notebook "data_import_transformationl.ipynb," available at (insert link). Subsequently, the compiled data was saved in a parquet-formatted file, accessible at (insert link).
