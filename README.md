@@ -36,15 +36,6 @@ Specifically, the following files were used in our modeling:
 * columns-samples.csv - provides information about the tissue sample and connects the "rnaseq_profile_id" to a "donor_id," which helps with merging datasets
 * fpkm_table_normalized.csv - provides normalized gene expression data by "gene_id" and "rnaseq_profile_id"
 
-## Imported Libraries and Versions
-* pandas: 2.1.3
-* numpy: 1.22.0
-* altair: 4.2.2
-* pyarrow: 14.0.1
-* scikit-learn: 0.24.2
-* seaborn: 0.11.2
-* matplotlib: 3.8.2
-
 ## Sample import statement
 ```
 import pandas as pd
