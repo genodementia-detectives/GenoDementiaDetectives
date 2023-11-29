@@ -26,9 +26,11 @@ pip install -r requirements.txt
 Please note that you need a GPU with proper setup to run the analysis.  Our team used Greak Lakes.
 
 ## Data Source
-We downloaded RNA expression data from the Aging, Dementia, and Traumatic Brain Injury Project, which links to brain tissue data on this website: https://aging.brain-map.org/download/index. The data was organized using the notebook "data_import_transformationl.ipynb," available at (insert link). Subsequently, the compiled data was saved in a parquet-formatted file, accessible at (insert link).
+We downloaded RNA expression data from the Aging, Dementia, and Traumatic Brain Injury Project, which links to brain tissue data on this website: https://aging.brain-map.org/download/index. 
 
-The RNAseq expression data was then retrieved from the parquet-formatted file and subjected to analysis using the pandas library. Additionally, a series of scikit-learn tools were employed for the evaluation of machine learning models.
+![image](https://github.com/genodementia-detectives/GenoDementiaDetectives/blob/main/images/Screen%20Shot%202023-11-29%20at%204.49.03%20PM.png)
+
+The data was organized using the notebook "data_import_transformationl.ipynb," available at (insert link). Subsequently, the compiled data was saved in a parquet-formatted file, accessible at (insert link). The RNAseq expression data was then retrieved from the parquet-formatted file and subjected to analysis using the pandas library. Additionally, a series of scikit-learn tools were employed for the evaluation of machine learning models.
 
 Specifically, the following files were used in our modeling:
 * rows-genes.csv: provides gene name and other gene information
