@@ -1,0 +1,122 @@
+#,Symbol,Description,Category,Score
+1,PSEN1,Presenilin 1,Protein Coding,470.53
+2,MAPT,Microtubule Associated Protein Tau,Protein Coding,459.5
+3,GBA1,Glucosylceramidase Beta 1,Protein Coding,51.97
+4,APP,Amyloid Beta Precursor Protein,Protein Coding,51.73
+5,APOE,Apolipoprotein E,Protein Coding,45.04
+6,ITM2B,Integral Membrane Protein 2B,Protein Coding,44.12
+7,VCP,Valosin Containing Protein,Protein Coding,43.46
+8,SERPINI1,Serpin Family I Member 1,Protein Coding,41.19
+9,TYROBP,Transmembrane Immune Signaling Adaptor TYROBP,Protein Coding,40.18
+10,SNCA,Synuclein Alpha,Protein Coding,38.66
+11,C9orf72,C9orf72-SMCR8 Complex Subunit,Protein Coding,38.24
+12,GRN,Granulin Precursor,Protein Coding,36.82
+13,PSEN2,Presenilin 2,Protein Coding,35.15
+14,NOTCH3,Notch Receptor 3,Protein Coding,35.05
+15,PRNP,Prion Protein,Protein Coding,34.81
+16,CHCHD10,Coiled-Coil-Helix-Coiled-Coil-Helix Domain Containing 10,Protein Coding,33.81
+17,LOC106627981,GBA Recombination Region,Functional Element,32.95
+18,SNCB,Synuclein Beta,Protein Coding,32.59
+19,TREM2,Triggering Receptor Expressed On Myeloid Cells 2,Protein Coding,32.51
+20,ATP13A2,ATPase Cation Transporting 13A2,Protein Coding,32.22
+21,TRPM7,Transient Receptor Potential Cation Channel Subfamily M Member 7,Protein Coding,30.25
+22,BDNF,Brain Derived Neurotrophic Factor,Protein Coding,30.09
+23,SQSTM1,Sequestosome 1,Protein Coding,29.07
+24,PRKN,Parkin RBR E3 Ubiquitin Protein Ligase,Protein Coding,29.01
+25,HTT,Huntingtin,Protein Coding,28.85
+26,PARK7,Parkinsonism Associated Deglycase,Protein Coding,27.41
+27,SNCAIP,Synuclein Alpha Interacting Protein,Protein Coding,27.27
+28,ACHE,Acetylcholinesterase (Cartwright Blood Group),Protein Coding,27.11
+29,TARDBP,TAR DNA Binding Protein,Protein Coding,26.75
+30,SERPINA3,Serpin Family A Member 3,Protein Coding,26.58
+31,CHMP2B,Charged Multivesicular Body Protein 2B,Protein Coding,25.89
+32,FUS,FUS RNA Binding Protein,Protein Coding,25.69
+33,NPC1,NPC Intracellular Cholesterol Transporter 1,Protein Coding,25.67
+34,NHLRC1,NHL Repeat Containing E3 Ubiquitin Protein Ligase 1,Protein Coding,25.49
+35,ARSA,Arylsulfatase A,Protein Coding,25.3
+36,TMEM106B,Transmembrane Protein 106B,Protein Coding,25.05
+37,SLC25A24,Solute Carrier Family 25 Member 24,Protein Coding,25
+38,SPAST,Spastin,Protein Coding,24.87
+39,BCHE,Butyrylcholinesterase,Protein Coding,24.71
+40,UBQLN2,Ubiquilin 2,Protein Coding,24.63
+41,HTR2A,5-Hydroxytryptamine Receptor 2A,Protein Coding,24.46
+42,TBK1,TANK Binding Kinase 1,Protein Coding,24.33
+43,SORL1,Sortilin Related Receptor 1,Protein Coding,24.13
+44,CHAT,Choline O-Acetyltransferase,Protein Coding,24.02
+45,NPC2,NPC Intracellular Cholesterol Transporter 2,Protein Coding,23.85
+46,TBP,TATA-Box Binding Protein,Protein Coding,23.47
+47,OPTN,Optineurin,Protein Coding,23.46
+48,PINK1,PTEN Induced Kinase 1,Protein Coding,23.37
+49,HNRNPA1,Heterogeneous Nuclear Ribonucleoprotein A1,Protein Coding,23.3
+50,ATXN2,Ataxin 2,Protein Coding,23.23
+51,BACE1,Beta-Secretase 1,Protein Coding,23.18
+52,TIA1,TIA1 Cytotoxic Granule Associated RNA Binding Protein,Protein Coding,23.01
+53,ABCA7,ATP Binding Cassette Subfamily A Member 7,Protein Coding,23.01
+54,HNRNPA2B1,Heterogeneous Nuclear Ribonucleoprotein A2/B1,Protein Coding,22.75
+55,TTR,Transthyretin,Protein Coding,22.72
+56,CTSD,Cathepsin D,Protein Coding,22.65
+57,LRRK2,Leucine Rich Repeat Kinase 2,Protein Coding,22.54
+58,ITIH4,Inter-Alpha-Trypsin Inhibitor Heavy Chain 4,Protein Coding,22.45
+59,CTSB,Cathepsin B,Protein Coding,22.35
+60,CCNF,Cyclin F,Protein Coding,22.29
+61,CSF1R,Colony Stimulating Factor 1 Receptor,Protein Coding,22.28
+62,ATN1,Atrophin 1,Protein Coding,22.24
+63,UCHL1,Ubiquitin C-Terminal Hydrolase L1,Protein Coding,22.2
+64,SLC6A3,Solute Carrier Family 6 Member 3,Protein Coding,22.18
+65,DNMT1,DNA Methyltransferase 1,Protein Coding,22.05
+66,DRD2,Dopamine Receptor D2,Protein Coding,21.84
+67,MOBP,Myelin Associated Oligodendrocyte Basic Protein,Protein Coding,21.54
+68,ATXN3,Ataxin 3,Protein Coding,21.47
+69,ATXN1,Ataxin 1,Protein Coding,21.43
+70,GFAP,Glial Fibrillary Acidic Protein,Protein Coding,21.32
+71,DNAJC5,DnaJ Heat Shock Protein Family (Hsp40) Member C5,Protein Coding,21.22
+72,PCSK1N,Proprotein Convertase Subtilisin/Kexin Type 1 Inhibitor,Protein Coding,21.04
+73,SPG21,"SPG21 Abhydrolase Domain Containing, Maspardin",Protein Coding,20.99
+74,HTRA1,HtrA Serine Peptidase 1,Protein Coding,20.87
+75,SNCG,Synuclein Gamma,Protein Coding,20.83
+76,CSTB,Cystatin B,Protein Coding,20.77
+77,CYLD,CYLD Lysine 63 Deubiquitinase,Protein Coding,20.66
+78,MFSD8,Major Facilitator Superfamily Domain Containing 8,Protein Coding,20.65
+79,MT-ND1,Mitochondrially Encoded NADH:Ubiquinone Oxidoreductase Core Subunit 1,Protein Coding,20.53
+80,JPH3,Junctophilin 3,Protein Coding,20.49
+81,PDGFB,Platelet Derived Growth Factor Subunit B,Protein Coding,20.42
+82,RETREG1,Reticulophagy Regulator 1,Protein Coding,20.37
+83,MT-ATP6,Mitochondrially Encoded ATP Synthase Membrane Subunit 6,Protein Coding,20.35
+84,PPP2R2B,Protein Phosphatase 2 Regulatory Subunit Bbeta,Protein Coding,20.33
+85,CST3,Cystatin C,Protein Coding,20.22
+86,SYP,Synaptophysin,Protein Coding,20.19
+87,GRIA3,Glutamate Ionotropic Receptor AMPA Type Subunit 3,Protein Coding,20.18
+88,IDE,Insulin Degrading Enzyme,Protein Coding,20.15
+89,ANXA11,Annexin A11,Protein Coding,20.14
+90,RPS27A,Ribosomal Protein S27a,Protein Coding,20.05
+91,MAOB,Monoamine Oxidase B,Protein Coding,19.85
+92,TRIM9,Tripartite Motif Containing 9,Protein Coding,19.49
+93,LRP1,LDL Receptor Related Protein 1,Protein Coding,19.29
+94,EPM2A,"EPM2A Glucan Phosphatase, Laforin",Protein Coding,18.79
+95,FMR1,Fragile X Messenger Ribonucleoprotein 1,Protein Coding,18.69
+96,APLNR,Apelin Receptor,Protein Coding,18.67
+97,MAP2,Microtubule Associated Protein 2,Protein Coding,18.42
+98,MIR132,MicroRNA 132,RNA Gene,18.32
+99,NGF,Nerve Growth Factor,Protein Coding,18.21
+100,TH,Tyrosine Hydroxylase,Protein Coding,18.14
+101,CCR5,C-C Motif Chemokine Receptor 5,Protein Coding,17.97
+102,GSK3B,Glycogen Synthase Kinase 3 Beta,Protein Coding,17.93
+103,CXCR4,C-X-C Motif Chemokine Receptor 4,Protein Coding,17.76
+104,TSPO,Translocator Protein,Protein Coding,17.67
+105,MIR659,MicroRNA 659,RNA Gene,17.55
+106,CLU,Clusterin,Protein Coding,17.33
+107,COMT,Catechol-O-Methyltransferase,Protein Coding,17.18
+108,AGER,Advanced Glycosylation End-Product Specific Receptor,Protein Coding,16.89
+109,CBS,Cystathionine Beta-Synthase,Protein Coding,16.76
+110,CHRM1,Cholinergic Receptor Muscarinic 1,Protein Coding,16.75
+111,APBB1,Amyloid Beta Precursor Protein Binding Family B Member 1,Protein Coding,16.68
+112,NEFL,Neurofilament Light Chain,Protein Coding,16.64
+113,TNF,Tumor Necrosis Factor,Protein Coding,16.51
+114,IL1B,Interleukin 1 Beta,Protein Coding,16.47
+115,HSPA4,Heat Shock Protein Family A (Hsp70) Member 4,Protein Coding,16.4
+116,IL6,Interleukin 6,Protein Coding,16.39
+117,ACE,Angiotensin I Converting Enzyme,Protein Coding,16.39
+118,SOD1,Superoxide Dismutase 1,Protein Coding,16.31
+119,MAOA,Monoamine Oxidase A,Protein Coding,16.3
+120,HTR1A,5-Hydroxytryptamine Receptor 1A,Protein Coding,16.22
+121,PON1,Paraoxonase 1,Protein Coding,16.13
