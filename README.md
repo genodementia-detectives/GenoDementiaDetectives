@@ -67,5 +67,3 @@ import warnings
 
 ## Project Approach
 ![image](https://github.com/hermonpe/GenoDementiaDetectives/blob/main/SIADS699_visual_for%20git%20readme.gif)
-
-## Model Outputs
