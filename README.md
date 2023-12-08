@@ -38,6 +38,17 @@ Specifically, the following files were used in our modeling:
 * columns-samples.csv - provides information about the tissue sample and connects the "rnaseq_profile_id" to a "donor_id," which helps with merging datasets
 * fpkm_table_normalized.csv - provides normalized gene expression data by "gene_id" and "rnaseq_profile_id"
 
+## Data Access
+
+The Aging, Dementia and Traumatic Brain Injury Study is a detailed neuropathologic, molecular and transcriptomic characterization of brains of control 
+and TBI exposure cases from a unique aged population-based cohort from the Adult Changes in Thought (ACT) study.  
+This study was developed by a consortium consisting of the University of Washington, Kaiser Permanente Washington Health Research Institute, 
+and the Allen Institute for Brain Science, and was supported by the Paul G. Allen Family Foundation. 
+
+This freely available resource (http://aging.brain-map.org/) presents a systematic and extensive data set of study participant metadata, 
+quantitative histology and protein measurements of neuropathology, and RNA sequencing (RNA-seq) analysis of hippocampus and neocortex. 
+Specific methodological details are available on the “Documentation” tab at http://aging.brain-map.org/.
+
 ## Sample import statement
 ```
 import pandas as pd
