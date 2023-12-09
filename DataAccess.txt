@@ -10,3 +10,4 @@ quantitative histology and protein measurements of neuropathology, and RNA seque
 Specific methodological details are available on the “Documentation” tab at http://aging.brain-map.org/.
 
 More information about the dataset is available in the README.
+https://knowledge.brain-map.org/data/38UR89M15WYUTDSN425/summary
