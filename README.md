@@ -49,6 +49,8 @@ This freely available resource (http://aging.brain-map.org/) presents a systemat
 quantitative histology and protein measurements of neuropathology, and RNA sequencing (RNA-seq) analysis of hippocampus and neocortex. 
 Specific methodological details are available on the “Documentation” tab at http://aging.brain-map.org/.
 
+https://knowledge.brain-map.org/data/38UR89M15WYUTDSN425/summary
+
 ## Sample import statement
 ```
 import pandas as pd
