@@ -30,7 +30,7 @@ We downloaded RNA expression data from the Aging, Dementia, and Traumatic Brain 
 
 ![image](https://github.com/genodementia-detectives/GenoDementiaDetectives/blob/main/images/data_source_image.png)
 
-The data was organized using the notebook "data_import_transformationl.ipynb," available at (insert link). Subsequently, the compiled data was saved in a parquet-formatted file, accessible at (insert link). The RNAseq expression data was then retrieved from the parquet-formatted file and subjected to analysis using the pandas library. Additionally, a series of scikit-learn tools were employed for the evaluation of machine learning models.
+The data was organized using the notebook "1. data_import_transformation (12092023A).ipynb," available at (code/notebooks/1. data_import_transformation (12092023A).ipynb). Subsequently, the compiled data was saved in a parquet-formatted file, accessible at (insert link). The RNAseq expression data was then retrieved from the parquet-formatted file and subjected to analysis using the pandas library. Additionally, a series of scikit-learn tools were employed for the evaluation of machine learning models.
 
 Specifically, the following files were used in our modeling:
 * rows-genes.csv: provides gene name and other gene information
