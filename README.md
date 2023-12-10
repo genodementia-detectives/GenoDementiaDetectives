@@ -38,6 +38,20 @@ Specifically, the following files were used in our modeling:
 * columns-samples.csv - provides information about the tissue sample and connects the "rnaseq_profile_id" to a "donor_id," which helps with merging datasets
 * fpkm_table_normalized.csv - provides normalized gene expression data by "gene_id" and "rnaseq_profile_id"
 
+  ## opening the fpkm_table_normalized.csv zip file
+```
+   import zipfile
+  # Specify the path to your zip file
+  zip_file_path = '../data/external/fpkm_table_normalized.csv.zip'
+  
+  # Specify the extraction directory
+  extracted_folder = '../data/external'
+  
+  # Open the zip file
+  with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
+      # Extract all the contents into the specified directory
+      zip_ref.extractall(extracted_folder)
+```
 ## Data Access
 
 The Aging, Dementia and Traumatic Brain Injury Study is a detailed neuropathologic, molecular and transcriptomic characterization of brains of control and TBI exposure cases from a unique aged population-based cohort from the Adult Changes in Thought (ACT) study.  
