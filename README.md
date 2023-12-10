@@ -23,7 +23,7 @@ Before running the project, we have to install all the dependencies from require
 pip install -r requirements.txt
 ```
 
-Please note that you need a GPU with proper setup to run the analysis.  Our team used Greak Lakes.
+Please note that you need a GPU with proper setup to run the analysis.  Our team used Greak Lakes. We used 2 cores and 180 GB of memory.
 
 ## Data Source
 We downloaded RNA expression data from the Aging, Dementia, and Traumatic Brain Injury Project, which links to brain tissue data on this website: https://aging.brain-map.org/download/index. 
