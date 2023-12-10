@@ -40,8 +40,7 @@ Specifically, the following files were used in our modeling:
 
 ## Data Access
 
-The Aging, Dementia and Traumatic Brain Injury Study is a detailed neuropathologic, molecular and transcriptomic characterization of brains of control 
-and TBI exposure cases from a unique aged population-based cohort from the Adult Changes in Thought (ACT) study.  
+The Aging, Dementia and Traumatic Brain Injury Study is a detailed neuropathologic, molecular and transcriptomic characterization of brains of control and TBI exposure cases from a unique aged population-based cohort from the Adult Changes in Thought (ACT) study.  
 This study was developed by a consortium consisting of the University of Washington, Kaiser Permanente Washington Health Research Institute, 
 and the Allen Institute for Brain Science, and was supported by the Paul G. Allen Family Foundation. 
 
@@ -50,6 +49,8 @@ quantitative histology and protein measurements of neuropathology, and RNA seque
 Specific methodological details are available on the “Documentation” tab at http://aging.brain-map.org/.
 
 https://knowledge.brain-map.org/data/38UR89M15WYUTDSN425/summary
+
+The Terms of Use and license information can be found here: https://alleninstitute.org/terms-of-use/. We have also pasted the Terms of Use as of May 2022 in our Github Repository DataAcess.txt file.
 
 ## Sample import statement
 ```
